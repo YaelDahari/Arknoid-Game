@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf7bdc99-be1a-4520-9b4c-6fd571f0cfe1" name="Changes" comment="final with comments">
-      <change afterPath="$PROJECT_DIR$/ass3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ass5.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ass2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ass2.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animation/CountdownAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animation/CountdownAnimation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animation/GameOverScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animation/GameOverScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animation/YouWinScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animation/YouWinScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameControl/GameLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameControl/GameLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameControl/LevelControl/LevelOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameControl/LevelControl/LevelOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameControl/LevelControl/LevelTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameControl/LevelControl/LevelTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ass2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameControl/LevelControl/LevelFour.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,25 +36,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yael Dahari/IdeaProjects/Project1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Yael Dahari/Arkanoid-Game",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Yael Dahari\IdeaProjects\Project1\tests" />
@@ -118,7 +111,10 @@
       <workItem from="1686141274329" duration="1626000" />
       <workItem from="1686216105958" duration="1219000" />
       <workItem from="1686516304306" duration="1277000" />
-      <workItem from="1686546236906" duration="198000" />
+      <workItem from="1686546236906" duration="2448000" />
+      <workItem from="1686851235883" duration="94000" />
+      <workItem from="1726594259769" duration="1046000" />
+      <workItem from="1726603562952" duration="39000" />
     </task>
     <task id="LOCAL‎-00001" summary="phase1">
       <created>1680211675458</created>
@@ -316,7 +312,14 @@
       <option name="project" value="LOCAL‎" />
       <updated>1685989847245</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL‎-00029" summary="final with comments">
+      <created>1686594600170</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL‎-00029" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1686594600170</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
