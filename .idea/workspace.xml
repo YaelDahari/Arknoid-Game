@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf7bdc99-be1a-4520-9b4c-6fd571f0cfe1" name="Changes" comment="final with comments">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ass2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameControl/LevelControl/LevelFour.java" beforeDir="false" />
+    <list default="true" id="c6b41e90-5718-4a55-8017-a90bfb79ed5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SampleTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Processes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringCompression.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +28,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,349 +35,163 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2NjwvzDS5fxTmZ5CDus1OmNwo2g" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mmnWrPBYUQ6KMGoiKKtiJuACuG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.MoveZeroes.executor": "Run",
+    "Application.Processes.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Solution1.executor": "Run",
+    "Application.Solution2.executor": "Run",
+    "Application.StringCompression.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Yael Dahari/Arkanoid-Game",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Yael Dahari\IdeaProjects\Project1\tests" />
-      <recent name="C:\Users\Yael Dahari\IdeaProjects\Project1\src" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestForAss2" />
-      <module name="Project1" />
-      <option name="VM_PARAMETERS" value="-ea" />
+  <component name="RunManager" selected="Application.Solution1">
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveZeroes" />
+      <module name="SampleTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Processes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Processes" />
+      <module name="SampleTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution1" />
+      <module name="SampleTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution2" />
+      <module name="SampleTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCompression" />
+      <module name="SampleTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Processes" />
+        <item itemvalue="Application.StringCompression" />
+        <item itemvalue="Application.MoveZeroes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf7bdc99-be1a-4520-9b4c-6fd571f0cfe1" name="Changes" comment="" />
-      <created>1680191037010</created>
+      <changelist id="c6b41e90-5718-4a55-8017-a90bfb79ed5f" name="Changes" comment="" />
+      <created>1727690656992</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680191037010</updated>
-      <workItem from="1680191037465" duration="5625000" />
-      <workItem from="1680266049492" duration="423000" />
-      <workItem from="1680369908882" duration="61344000" />
-      <workItem from="1681064245230" duration="19132000" />
-      <workItem from="1681373252585" duration="6244000" />
-      <workItem from="1681668664467" duration="237000" />
-      <workItem from="1681681287105" duration="690000" />
-      <workItem from="1681747999964" duration="1491000" />
-      <workItem from="1681889815450" duration="713000" />
-      <workItem from="1681909495957" duration="154000" />
-      <workItem from="1681915996895" duration="1333000" />
-      <workItem from="1681984202444" duration="2125000" />
-      <workItem from="1682334868047" duration="41470000" />
-      <workItem from="1682607826020" duration="6121000" />
-      <workItem from="1682693861588" duration="471000" />
-      <workItem from="1682794765338" duration="1408000" />
-      <workItem from="1682955144332" duration="1098000" />
-      <workItem from="1683397595226" duration="417000" />
-      <workItem from="1684834056893" duration="25821000" />
-      <workItem from="1685357693606" duration="4235000" />
-      <workItem from="1685531855409" duration="9366000" />
-      <workItem from="1685618451528" duration="22918000" />
-      <workItem from="1685820856149" duration="1364000" />
-      <workItem from="1685887386144" duration="10964000" />
-      <workItem from="1685899294610" duration="1372000" />
-      <workItem from="1685907991543" duration="2192000" />
-      <workItem from="1685950210845" duration="4066000" />
-      <workItem from="1685966623652" duration="2148000" />
-      <workItem from="1685989141671" duration="893000" />
-      <workItem from="1686141274329" duration="1626000" />
-      <workItem from="1686216105958" duration="1219000" />
-      <workItem from="1686516304306" duration="1277000" />
-      <workItem from="1686546236906" duration="2448000" />
-      <workItem from="1686851235883" duration="94000" />
-      <workItem from="1726594259769" duration="1046000" />
-      <workItem from="1726603562952" duration="39000" />
+      <updated>1727690656992</updated>
+      <workItem from="1727690658304" duration="3247000" />
+      <workItem from="1727696547144" duration="1947000" />
+      <workItem from="1729789789149" duration="9391000" />
+      <workItem from="1730664221638" duration="9715000" />
     </task>
-    <task id="LOCAL‎-00001" summary="phase1">
-      <created>1680211675458</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL‎-00001" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1680211675458</updated>
-    </task>
-    <task id="LOCAL‎-00002" summary="phase1">
-      <created>1680705550125</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL‎-00002" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1680705550125</updated>
-    </task>
-    <task id="LOCAL‎-00003" summary="final">
-      <created>1681377575455</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL‎-00003" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1681377575455</updated>
-    </task>
-    <task id="LOCAL‎-00004" summary="final">
-      <created>1681890425163</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL‎-00004" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1681890425163</updated>
-    </task>
-    <task id="LOCAL‎-00005" summary="final">
-      <created>1681917289879</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL‎-00005" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1681917289879</updated>
-    </task>
-    <task id="LOCAL‎-00006" summary="final">
-      <created>1681984351984</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL‎-00006" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1681984351984</updated>
-    </task>
-    <task id="LOCAL‎-00007" summary="final">
-      <created>1682078761652</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL‎-00007" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682078761652</updated>
-    </task>
-    <task id="LOCAL‎-00008" summary="final">
-      <created>1682081959185</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL‎-00008" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682081959185</updated>
-    </task>
-    <task id="LOCAL‎-00009" summary="final">
-      <created>1682082433328</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL‎-00009" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682082433328</updated>
-    </task>
-    <task id="LOCAL‎-00010" summary="phase 1">
-      <created>1682429246960</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL‎-00010" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682429246960</updated>
-    </task>
-    <task id="LOCAL‎-00011" summary="phase 2">
-      <created>1682432598941</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL‎-00011" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682432598941</updated>
-    </task>
-    <task id="LOCAL‎-00012" summary="phase 3">
-      <created>1682500656240</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL‎-00012" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682500656240</updated>
-    </task>
-    <task id="LOCAL‎-00013" summary="final">
-      <created>1682528108355</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL‎-00013" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682528108355</updated>
-    </task>
-    <task id="LOCAL‎-00014" summary="final edit">
-      <created>1682684598480</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL‎-00014" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682684598480</updated>
-    </task>
-    <task id="LOCAL‎-00015" summary="final edit">
-      <created>1682694314590</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL‎-00015" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682694314590</updated>
-    </task>
-    <task id="LOCAL‎-00016" summary="final edit">
-      <created>1682694329573</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL‎-00016" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682694329573</updated>
-    </task>
-    <task id="LOCAL‎-00017" summary="final edit">
-      <created>1682795847186</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL‎-00017" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1682795847186</updated>
-    </task>
-    <task id="LOCAL‎-00018" summary="final edit">
-      <created>1683055156498</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL‎-00018" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1683055156498</updated>
-    </task>
-    <task id="LOCAL‎-00019" summary="final edit">
-      <created>1683397824922</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL‎-00019" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1683397824922</updated>
-    </task>
-    <task id="LOCAL‎-00020" summary="after part 2">
-      <created>1684857442067</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL‎-00020" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1684857442067</updated>
-    </task>
-    <task id="LOCAL‎-00021" summary="final with comments">
-      <created>1684935831644</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL‎-00021" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1684935831644</updated>
-    </task>
-    <task id="LOCAL‎-00022" summary="final edit with comments">
-      <created>1685393917323</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL‎-00022" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1685393917323</updated>
-    </task>
-    <task id="LOCAL‎-00023" summary="level one works">
-      <created>1685638040678</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL‎-00023" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1685638040678</updated>
-    </task>
-    <task id="LOCAL‎-00024" summary="levels work">
-      <created>1685709687315</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL‎-00024" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1685709687315</updated>
-    </task>
-    <task id="LOCAL‎-00025" summary="part 2 finished">
-      <created>1685826825019</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL‎-00025" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1685826825019</updated>
-    </task>
-    <task id="LOCAL‎-00026" summary="done with comments">
-      <created>1685958308394</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL‎-00026" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1685958308394</updated>
-    </task>
-    <task id="LOCAL‎-00027" summary="final with comments">
-      <created>1685989413069</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL‎-00027" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1685989413069</updated>
-    </task>
-    <task id="LOCAL‎-00028" summary="final with comments">
-      <created>1685989847245</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL‎-00028" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1685989847245</updated>
-    </task>
-    <task id="LOCAL‎-00029" summary="final with comments">
-      <created>1686594600170</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL‎-00029" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1686594600170</updated>
-    </task>
-    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="phase1" />
-    <MESSAGE value="phase 1" />
-    <MESSAGE value="phase 2" />
-    <MESSAGE value="phase 3" />
-    <MESSAGE value="final" />
-    <MESSAGE value="final edit" />
-    <MESSAGE value="after part 2" />
-    <MESSAGE value="final edit with comments" />
-    <MESSAGE value="level one works" />
-    <MESSAGE value="levels work" />
-    <MESSAGE value="part 2 finished" />
-    <MESSAGE value="done with comments" />
-    <MESSAGE value="final with comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="final with comments" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.AssertionError" package="java.lang" />
-          <option name="timeStamp" value="26" />
-        </breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.util.ConcurrentModificationException" package="java.util" />
-          <option name="timeStamp" value="27" />
-        </breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="29" />
-        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MoveZeroes.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringCompression.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringCompression.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Processes.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Processes.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution1.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
